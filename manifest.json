@@ -1,6 +1,6 @@
 {
-    "name": "oasis_pulse",
-    "short_name": "oasis_pulse",
+    "name": "chat_app",
+    "short_name": "chat_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
