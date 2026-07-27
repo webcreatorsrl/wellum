@@ -1,7 +1,7 @@
 {
   "name": "Wellum",
   "short_name": "Wellum",
-  "start_url": ".",
+  "start_url": "/wellum/",
   "display": "standalone",
   "background_color": "#F5F5F5",
   "theme_color": "#333333",
